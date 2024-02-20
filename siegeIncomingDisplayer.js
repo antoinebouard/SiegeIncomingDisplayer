@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         Siège Incoming Displayer
+// @name         Siege Incoming Displayer
 // @namespace    http://tampermonkey.net/
-// @version      v0.5
+// @version      0.5.1
 // @description  Display incoming troops to sieges and allow you to sort them by type of attack
 // @author       Draub
 // @match        https://*.grepolis.com/game/*
 // @run-at       document-end
-// @icon         https://wiki.en.grepolis.com/images/f/f9/Town_fight.png
+// @icon         https://wiki.fr.grepolis.com/images/2/29/ConquestIcon.png
 // @grant        none
 // ==/UserScript==
 
